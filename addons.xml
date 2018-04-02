@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="repository.testrepo" name="testrepo" version="1.0.0" provider-name="dj">
-	<extension point="xbmc.addon.repository" name="testrepo Repository">
+<addon id="repository.TESTREPO" name="TESTREPO" version="1.0.0" provider-name="dj">
+	<extension point="xbmc.addon.repository" name="TESTREPO Repository">
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/</datadir>
 		</dir>
-		<info compressed="false">https://raw.githubusercontent.com/despardoj/repository.testrepo/master/zips/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/despardoj/repository.testrepo/master/zips/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/despardoj/repository.testrepo/master/zips/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/despardoj/repository.TESTREPO/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/despardoj/repository.TESTREPO/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/despardoj/repository.TESTREPO/master/zips/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">test repo</summary>
